@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/automatic
 excerpt: ''
 date: 2015-10-01
-venue: 'Workshop'
+venue: '2014 IEEE 16th International Workshop on Multimedia Signal Processing (MMSP)'
 paperurl: 'http://ieeexplore.ieee.org/abstract/document/6958828/'
 citation: 
 ---
